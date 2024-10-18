@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+#card {
+	width: 250px;
+	padding: 40px;
+	background-color: gray;
+	box-shadow: 0 0 2px 2px grey;
+	text-align: center;
+}
+#card p {
+	font-size: 18px;
+}
+button {
+	padding: 10px 20px;
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+	border: none;
+	font-size: 22px;
+}
